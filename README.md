@@ -9,3 +9,5 @@ W pliku `trie.py` znajduje się podstawowa wersja struktury danych.
 # Dane
 
 Dane zostały pobrane z https://www.kaggle.com/datasets/rtatman/english-word-frequency i są przetwarzane do pliku `word_frequencies.json`, który zawiera około 330000 słów w języku angielskim wraz z częstością ich występowania, znormalizowaną do wartości 1-10000 dla wydajności (dane nie mają wartości naukowej). Ten plik jest generowany przez `normalize_words.py` (wymagane są biblioteki z pliku `requirements.txt`).
+
+https://www.canva.com/design/DAGqFCoTSds/iOJ2GX6Mg6KxymxHyzZcIQ/view?utm_content=DAGqFCoTSds&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf3ab1af8e2
